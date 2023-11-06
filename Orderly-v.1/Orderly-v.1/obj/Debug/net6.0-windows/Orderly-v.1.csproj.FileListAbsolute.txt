@@ -1,0 +1,17 @@
+C:\Users\Bradley Williams\source\repos\OrderlyDesktop-v.1\Orderly-v.1\Orderly-v.1\bin\Debug\net6.0-windows\Orderly-v.1.exe
+C:\Users\Bradley Williams\source\repos\OrderlyDesktop-v.1\Orderly-v.1\Orderly-v.1\bin\Debug\net6.0-windows\Orderly-v.1.deps.json
+C:\Users\Bradley Williams\source\repos\OrderlyDesktop-v.1\Orderly-v.1\Orderly-v.1\bin\Debug\net6.0-windows\Orderly-v.1.runtimeconfig.json
+C:\Users\Bradley Williams\source\repos\OrderlyDesktop-v.1\Orderly-v.1\Orderly-v.1\bin\Debug\net6.0-windows\Orderly-v.1.dll
+C:\Users\Bradley Williams\source\repos\OrderlyDesktop-v.1\Orderly-v.1\Orderly-v.1\bin\Debug\net6.0-windows\Orderly-v.1.pdb
+C:\Users\Bradley Williams\source\repos\OrderlyDesktop-v.1\Orderly-v.1\Orderly-v.1\obj\Debug\net6.0-windows\Orderly_v._1.Form1.resources
+C:\Users\Bradley Williams\source\repos\OrderlyDesktop-v.1\Orderly-v.1\Orderly-v.1\obj\Debug\net6.0-windows\Orderly_v._1.Properties.Resources.resources
+C:\Users\Bradley Williams\source\repos\OrderlyDesktop-v.1\Orderly-v.1\Orderly-v.1\obj\Debug\net6.0-windows\Orderly-v.1.csproj.GenerateResource.cache
+C:\Users\Bradley Williams\source\repos\OrderlyDesktop-v.1\Orderly-v.1\Orderly-v.1\obj\Debug\net6.0-windows\Orderly-v.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bradley Williams\source\repos\OrderlyDesktop-v.1\Orderly-v.1\Orderly-v.1\obj\Debug\net6.0-windows\Orderly-v.1.AssemblyInfoInputs.cache
+C:\Users\Bradley Williams\source\repos\OrderlyDesktop-v.1\Orderly-v.1\Orderly-v.1\obj\Debug\net6.0-windows\Orderly-v.1.AssemblyInfo.cs
+C:\Users\Bradley Williams\source\repos\OrderlyDesktop-v.1\Orderly-v.1\Orderly-v.1\obj\Debug\net6.0-windows\Orderly-v.1.csproj.CoreCompileInputs.cache
+C:\Users\Bradley Williams\source\repos\OrderlyDesktop-v.1\Orderly-v.1\Orderly-v.1\obj\Debug\net6.0-windows\Orderly-v.1.dll
+C:\Users\Bradley Williams\source\repos\OrderlyDesktop-v.1\Orderly-v.1\Orderly-v.1\obj\Debug\net6.0-windows\refint\Orderly-v.1.dll
+C:\Users\Bradley Williams\source\repos\OrderlyDesktop-v.1\Orderly-v.1\Orderly-v.1\obj\Debug\net6.0-windows\Orderly-v.1.pdb
+C:\Users\Bradley Williams\source\repos\OrderlyDesktop-v.1\Orderly-v.1\Orderly-v.1\obj\Debug\net6.0-windows\Orderly-v.1.genruntimeconfig.cache
+C:\Users\Bradley Williams\source\repos\OrderlyDesktop-v.1\Orderly-v.1\Orderly-v.1\obj\Debug\net6.0-windows\ref\Orderly-v.1.dll
